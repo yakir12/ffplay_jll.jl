@@ -1,0 +1,113 @@
+[[FFplay]]
+arch = "aarch64"
+git-tree-sha1 = "3d9de87a7ccc459f538bffac377a1e24ab1021c4"
+libc = "glibc"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "e6a5b256dd2f1626da99d5f34d5b00e5ad878dee7a88261f35b69abeb4fb3368"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.aarch64-linux-gnu.tar.gz"
+[[FFplay]]
+arch = "aarch64"
+git-tree-sha1 = "020f11d34713d709371c4562dca1db223721b789"
+libc = "musl"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "456974e2c849ed2535c016fa8d2b969170b243bfeaef534cc63914c7b0046ac0"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.aarch64-linux-musl.tar.gz"
+[[FFplay]]
+arch = "armv7l"
+git-tree-sha1 = "87785169beaf0884d2da0c0e2c6c84ba1feb55e7"
+libc = "glibc"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "8118fc5d97ed8f6c1ab182ae2ac5d0b76a090d32f4e5755ff8e1d0b8472d643a"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.armv7l-linux-gnueabihf.tar.gz"
+[[FFplay]]
+arch = "armv7l"
+git-tree-sha1 = "85ec074809e79ff63061f37f34764619e805f0e0"
+libc = "musl"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "1a04477d8dbcc3187a24ef8ecccf3f51e8f1003038c35f5dfe165f3399dd1e1e"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.armv7l-linux-musleabihf.tar.gz"
+[[FFplay]]
+arch = "i686"
+git-tree-sha1 = "63f8a738f76500c7bfa3f802442114771cc1d520"
+libc = "glibc"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "c7ced5fc7016b77fc74883b5b563be12965f7e0b70c61e0436ea4f1a313e1a02"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.i686-linux-gnu.tar.gz"
+[[FFplay]]
+arch = "i686"
+git-tree-sha1 = "d9f0622bf13fb30964276a4467585c9d531b421a"
+libc = "musl"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "8a924ff90217b3997594ed83b28cb347c29cde2bb8fed4e56b0e8f714a2b5c3e"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.i686-linux-musl.tar.gz"
+[[FFplay]]
+arch = "i686"
+git-tree-sha1 = "4c231597e7dc72c263212b61af740cf78a24505e"
+os = "windows"
+
+    [[FFplay.download]]
+    sha256 = "34f856905221cbd3851fd153c8f6e0b249f5fba2a357d17f7bf9d36e2ac77963"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.i686-w64-mingw32.tar.gz"
+[[FFplay]]
+arch = "powerpc64le"
+git-tree-sha1 = "3f7a9693116b1fa415b71e524ad13feb6d6c775f"
+libc = "glibc"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "5492e3ec2c58b88f735387ed60994ae10e4da56e75f26a98941cc224a424af49"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.powerpc64le-linux-gnu.tar.gz"
+[[FFplay]]
+arch = "x86_64"
+git-tree-sha1 = "27f0de6a4b9a111500a28d16f1f74a50752e38dc"
+os = "macos"
+
+    [[FFplay.download]]
+    sha256 = "bece4b937ac6388642623b02dc0b71f43439715d997e922f20c785e6480cdc2d"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.x86_64-apple-darwin14.tar.gz"
+[[FFplay]]
+arch = "x86_64"
+git-tree-sha1 = "ede811f646de46955678831d7cd388746383354f"
+libc = "glibc"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "78194218fbc8db17ebc74491b40c9e86e046767e93ebebb61168ac67440c1a82"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.x86_64-linux-gnu.tar.gz"
+[[FFplay]]
+arch = "x86_64"
+git-tree-sha1 = "a0e7f0524d9cf3f84b86eab706ec5189f18af2a3"
+libc = "musl"
+os = "linux"
+
+    [[FFplay.download]]
+    sha256 = "b70168a9f33d056e8a8d760569954ea4084951beb306ee366cc359648e493715"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.x86_64-linux-musl.tar.gz"
+[[FFplay]]
+arch = "x86_64"
+git-tree-sha1 = "ad1db01b5bccc44896b21ca54cda8e27451a7a95"
+os = "freebsd"
+
+    [[FFplay.download]]
+    sha256 = "6b6a3bb0af014bcaf3c7480930e44182e9a36092fd960ed4d855c82103663a46"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[FFplay]]
+arch = "x86_64"
+git-tree-sha1 = "afde504e58e6e1471470993ec5b6880b941003f3"
+os = "windows"
+
+    [[FFplay.download]]
+    sha256 = "ff19e1507cc1abebb698306bb7c3503dad75a5ef839caf74ce8d6ac840585441"
+    url = "https://github.com/yakir12/ffplay_jll.jl/releases/download/FFplay-v4.3.1+0/FFplay.v4.3.1.x86_64-w64-mingw32.tar.gz"
